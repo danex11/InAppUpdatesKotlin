@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">InappupdatesKotlin</string>
+    <string name="info_failed">info_failed</string>
+    <string name="info_pending">info_pending</string>
+    <string name="info_canceled">info_canceled</string>
+    <string name="info_downloading">info_downloading</string>
+    <string name="info_installing">info_installing</string>
+    <string name="info_installed">info_installed</string>
+    <string name="info_restart">info_restart</string>
+    <string name="update_title">update_title</string>
+    <string name="update_message">update_message</string>
+    <string name="action_restart">action_restart</string>
+    <string name="toast_updated">toast_updated</string>
+    <string name="toast_started">toast_started</string>
+    <string name="toast_cancelled">toast_cancelled</string>
+    <string name="toast_failed">toast_failed</string>
+
+
+</resources>
